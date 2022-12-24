@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1{
+    background-color: black;
+    color: pink;
+    text-align: center;
+}
+p{
+    font-size: 40px
+}
+table,th,td{
+    border: 2px solid red; 
+    height: 40px;
+}
+table{
+    width:60%;
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+}
